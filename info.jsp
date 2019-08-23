@@ -29,9 +29,8 @@
   <li class="hori"><a href="Search.jsp">检索</a></li>
 </ul>
 <ul style="width: 100px; top:100px;">
-<li><a href="#home">添加</a></li>
-<li><a href="#news">修改</a></li>
-<li><a href="#contact">删除</a></li>
+<li><a href="info.jsp">添加</a></li>
+<li><a href="ListServlet?fform=info">修改/删除</a></li>
 </ul>
 <script type="text/javascript">
 function display_alert()
